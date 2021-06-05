@@ -1,6 +1,6 @@
 # NETFLIX CLONE :tv:
 
-![image](https://user-images.githubusercontent.com/57897149/120891228-139bcf80-c625-11eb-9851-147c5d2f6b8c.png)
+![image](https://user-images.githubusercontent.com/57897149/120891275-4776f500-c625-11eb-9736-a1fd2fcebf3d.png)
 
 ## Tech Stack
 
@@ -10,7 +10,7 @@
 
 Clone the repo in your terminal writting:
 
-#### `$ git clone https://github.com/`
+#### `$ git clone https://github.com/Siddhesh30/Netflix-clone.git`
 
 In the project directory, you can run:
 
